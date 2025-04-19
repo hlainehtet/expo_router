@@ -14,6 +14,7 @@ export default function Index() {
       <Text>Home Page</Text>
       <Link href="/about">About</Link>
       <Link href="/profile">Profile</Link>
+      <Link href="/products">Products</Link>
     </View>
   );
 }
